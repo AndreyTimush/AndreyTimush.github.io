@@ -1,6 +1,6 @@
 # banda_umnikov
 
-##Deploy
+## Deploy
 https://andreytimush.github.io/
 
 ## Project setup
