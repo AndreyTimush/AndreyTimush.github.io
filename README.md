@@ -1,5 +1,8 @@
 # banda_umnikov
 
+##Deploy
+https://andreytimush.github.io/
+
 ## Project setup
 ```
 npm install
